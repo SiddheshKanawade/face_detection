@@ -23,6 +23,10 @@ and remember faces. Even with potential hindrances such as ageing, lighting cond
 
 ## Technologies
 The project uses Python >= 3.8
+Instructions to use:
+1. Setup the python environment into local system
+2. If using `Jupyter Notebook`, then install the requirements.txt
+3. Use [official python documentation](https://docs.python.org/3.9/) in case if you face any error.
 Other technologies used
 * Google Colab / Jupyter Notebook
 * Pillow
